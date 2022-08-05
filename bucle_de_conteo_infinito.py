@@ -6,3 +6,4 @@ while numero < cont:
     numero = numero + 1
     cont = cont + 1 
 """ cd desktop/cursos/python hello i am in pyhton """
+""" ahora lo edite desde local """
